@@ -26,15 +26,8 @@ Para começar um negócio online é melhor encontrar um produto de nicho que os 
 Depois pode optar-se entre fazer um site próprio para e-commerce a partir do zero ou adaptar a um site já existente uma secção de loja online através dum software próprio.
 Também é importante ter em consideração o aspecto da expedição. Para diversos tipos de mercadoria o processo logístico associado à entrega é um problema, como por exemplo as garrafas de vinho, enquanto outros tipos não carecem de cuidados especiais no seu manuseamento, como é o caso dos livros ou DVD’s.
 
-# O que é e-Business
+# Cenário atual do Comércio
 
-O e-business pode ser definido como sistemas de informação que auxiliam os processos de negócio. Geralmente, as duas grandes áreas do e-business são o e-commerce e também o e-service. Como citado anteriormente, o e-commerce é a realização de vendas pela internet, sejam essas vendas  feitas entre uma empresa e outra ou então entre uma empresa e um cliente.
+Segundo a Folha de São Paulo, o comércio eletrônico faturou RS 23,6 bilhões no primeiro semestre de 2018, crescendo 12,1% em relação a 2017 que chegou a 21 bilhões registrados. O número de pedidos aumentou 8%, de 50,3 milhões para 54,4 milhões. A categoria chamada Digital Commerce do estudo,  inclui venda de produtos novos e usados (em espaços virtuais como eBay, Enjoei e Mercado Livre) de lojas a consumidores.
 
-# Negócio Eletrônico
 
-O comércio eletrônico identifica o uso intensivo de Tecnologia da Informação (Beam e Segev, 1996) na mediação das relações entre consumidores e fornecedores. Para a melhor compreensão das vantagens e riscos do comércio eletrônico, no entanto, é útil a sua divisão em dois blocos principais. O primeiro bloco indica as atividades relativas a transações entre empresas que compram e vendem produtos entre si. Este grupo se caracteriza por um número relativamente baixo de transações de alto valor financeiro. O segundo bloco, das transações entre empresas e consumidores finais, se caracteriza por alto volume relativo de transações com baixo valor financeiro envolvido em cada uma delas. Fonte: http://www.scielo.br/scielo.php?pid=S1415-65551999000100005&script=sci_arttext&tlng=es
-
-# Négocio Eletrônico 
-
-É o termo usado para identificar os negócios surgidos geralmente na Internet. Normalmente é conhecido como Négocio Eletrônico ou e-business. E-business tem como aplicação a criação de sistemas capazes de prover comunicação entre empresas agilizando os processo de compra e venda entre as mesmas. 
-[Fonte](https://pt.m.wikipedia.org/wiki/E-business#/search)
